@@ -31,26 +31,8 @@ This project focuses on analyzing bird species distribution and abundance in Ken
 
 ---
 
-## Results
-
-### Bird Abundance:
-- Spatial patterns revealed regions with higher bird abundance, particularly influenced by elevation and precipitation.
-- Statistical analysis showed weak correlations, suggesting other ecological factors may play a significant role.
-
-### Species Richness:
-- Identified biodiversity hotspots in central, southwestern, and coastal Kenya.
-- Grid-based mapping highlighted areas with higher species richness, aiding in understanding spatial variations in bird diversity.
-
----
-
 ## Data Citation
 
 This project utilized bird occurrence data from the Global Biodiversity Information Facility (GBIF). Please cite the data as follows:
 
 **GBIF.org (26 October 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.gu5t27**
-
----
-
-## Conclusion
-
-This project demonstrates the value of combining geospatial analysis with statistical techniques to study biodiversity patterns. The results provide actionable insights into Kenya's bird diversity, which can support conservation efforts and ecological studies.
